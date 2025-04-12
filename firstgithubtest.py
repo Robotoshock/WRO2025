@@ -8,6 +8,10 @@ import runloop,  motor, motor_pair, asyncio, math, color_sensor, color, time, ma
 # E - lifting motor
 # F - left motor
 
+#Maxi edited this
+
+speedisrelative = 1
+
 speed = 500
 speed_E = 100
 speed_C = 200
